@@ -1,0 +1,17 @@
+table,td,th{
+   background-color: coral;
+  border: 1px solid black;
+}
+body{ width: 80%;
+margin: auto;
+}
+table{
+    padding: 5px;
+}
+button{
+    font-family: 'Roboto Mono', monospace;
+    background-color: rgb(231, 0, 39) ;
+} 
+h1{
+    text-align: center;
+}
